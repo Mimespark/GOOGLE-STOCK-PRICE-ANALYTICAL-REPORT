@@ -19,7 +19,7 @@ Open, High, Low, Close — The heartbeat of each trading day.
 
 Volume — A measure of belief in motion.
 
-**OBJECTIVE:**
+**OBJECTIVES**
 
 To provide a comprehensive overview of Google’s stock performance over the years (2004–2025), analyzing key metrics such as annual stock trading volume, open vs. close prices, annual low prices, annual high prices, and total stock circulated.
 
