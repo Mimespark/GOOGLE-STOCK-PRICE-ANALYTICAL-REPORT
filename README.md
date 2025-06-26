@@ -33,6 +33,30 @@ Check if certain months yield higher returns or volume
 
 **OBSERVATIONS: **
 
+Analysis Observations using slicer: 
+
+✅ Google has estimated 586bn total trading volume for the past 2 decades.
+
+ 
+
+✅ In the first decade after the initial public offering (IPO) in 2004, google recorded 493bn total trading volume. During this period, the annual trading stock has fluctuated with a notable fall in 2013.
+
+
+
+✅ Prices of stock has gradually increased from 2009 - 2013, reaching a major peak in 2013 that first decade.
+
+
+
+✅ In the second decade (2014 - 2024), google recorded 90bn trading volume. During this period, it recorded its highest annual trading volume in 2014, with about 12.5bn. Trading volume fluctuated throughout the decade, with a notable decline of 5.0bn trading volume in 2024.
+
+
+
+✅ Despite having the least trading volume for the decade, 2024 saw a bullish stock price compared to previous years.
+
+
+
+✅ As of Jan -June 2025, Google has recorded its lowest annual trading volume, with approximately 3 billion traded volumes of stocks. The year has also seen a notable price decline.
+
 **Google Annual Stock Trading Volume**
 
 The trading volume has shown a declining trend from 108bn in 2005 to approximately 3bn in 2025. Which indicates a potential decrease in market activity or liquidity over the years.
